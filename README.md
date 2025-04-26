@@ -1,10 +1,10 @@
-# README - Scripts de Manipulação de Texto
+# README - Text Manipulation Scripts
 
-## 1. Cortar Texto
-### Descrição
-Este programa permite ao usuário inserir um texto e realizar cortes em diferentes partes, especificando o início e o fim de cada corte.
+## 1. Cut Text
+### Description
+This program allows the user to enter text and make cuts in different parts, specifying the beginning and end of each cut.
 
-### Como Compilar
+### How to Compile
 ```sh
 gcc -o cortar cortar_texto.c
 ```
