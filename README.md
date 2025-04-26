@@ -9,13 +9,13 @@ This program allows the user to enter text and make cuts in different parts, spe
 gcc -o cortar cortar_texto.c
 ```
 
-### Como Executar
+### How to excute
 ```sh
 ./cortar
 ```
 
-### Exemplo de Uso
-**Entrada:**
+### Usage Example
+**Input:**
 ```
 Digite um texto: Exemplo de teste para corte
 Digite o número de cortes: 2
