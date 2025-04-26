@@ -23,7 +23,7 @@ Digite o início e o fim do corte 1: 1 7
 Digite o início e o fim do corte 2: 11 15
 ```
 
-**Out:**
+**exit:**
 ```
 Example
 teste
@@ -50,7 +50,7 @@ Digite um texto: banana banana banana
 Digite o padrão a ser buscado: na
 ```
 
-**Saída:**
+**exit**
 ```
 O padrão 'na' aparece 3 vezes no texto.
 ```
