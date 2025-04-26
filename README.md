@@ -43,8 +43,8 @@ gcc -o contar contar_ocorrencias.c
 ./contar
 ```
 
-### Exemplo de Uso
-**Entrada:**
+### Usage Example
+**Input:**
 ```
 Digite um texto: banana banana banana
 Digite o padrão a ser buscado: na
