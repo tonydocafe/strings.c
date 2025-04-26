@@ -29,11 +29,11 @@ Exemplo
 teste
 ```
 
-## 2. Contar Ocorrências de um Padrão
-### Descrição
-Este programa recebe um texto e um padrão e conta quantas vezes o padrão aparece no texto.
+## 2. Count Occurrences of a Pattern
+### Description
+This program takes a text and a pattern and counts how many times the pattern appears in the text.
 
-### Como Compilar
+### How to Compile
 ```sh
 gcc -o contar contar_ocorrencias.c
 ```
