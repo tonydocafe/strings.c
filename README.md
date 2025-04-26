@@ -9,7 +9,7 @@ This program allows the user to enter text and make cuts in different parts, spe
 gcc -o cortar cortar_texto.c
 ```
 
-### How to excute
+### How to run
 ```sh
 ./cortar
 ```
@@ -25,7 +25,7 @@ Digite o início e o fim do corte 2: 11 15
 
 **Out:**
 ```
-Exemplo
+Example
 teste
 ```
 
@@ -38,7 +38,7 @@ This program takes a text and a pattern and counts how many times the pattern ap
 gcc -o contar contar_ocorrencias.c
 ```
 
-### Como Executar
+### How to run
 ```sh
 ./contar
 ```
