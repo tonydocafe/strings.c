@@ -23,7 +23,7 @@ Digite o início e o fim do corte 1: 1 7
 Digite o início e o fim do corte 2: 11 15
 ```
 
-**Saída:**
+**Out:**
 ```
 Exemplo
 teste
